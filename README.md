@@ -98,6 +98,8 @@ A base foi estruturada utilizando informações provenientes de órgãos e insti
 <img width="827" height="304" alt="Screenshot_4" src="https://github.com/user-attachments/assets/689e6c9b-822d-463b-a474-3c38ed624bb6" />
 
 
+## Link Dashboard BI
+<a href="https://app.powerbi.com/groups/me/reports/602c844c-5707-478d-a64a-b6da3e2fe1a7/ae02660bab38bbc26545?language=pt-BR&experience=power-bi">Link</a>
 
 
 ### Principais colaboradores:
