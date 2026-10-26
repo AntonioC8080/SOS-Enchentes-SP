@@ -1,10 +1,6 @@
 CREATE DATABASE sos_enchentes_sp;
 USE sos_enchentes_sp;
 
--- ============================
--- TABELAS DE REFERÊNCIA
--- ============================
-
 CREATE TABLE zona (
     id_zona INT AUTO_INCREMENT PRIMARY KEY,
     nome VARCHAR(50) NOT NULL
@@ -21,9 +17,8 @@ CREATE TABLE classificacao_territorio (
     tipo_territorio VARCHAR(100)
 );
 
--- ============================
--- TABELA PRINCIPAL DE REGIÕES
--- ============================
+
+
 
 CREATE TABLE regiao (
     id_regiao INT AUTO_INCREMENT PRIMARY KEY,
